@@ -131,7 +131,6 @@ fal = []
 mutey = []
 tabchitimer = []
 admin = 8360575945
-imdb = IMDb()
 last_response_time = {}
 keep_online_timer = None
 title_lock_chats = {}
